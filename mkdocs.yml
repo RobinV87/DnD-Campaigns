@@ -2,7 +2,7 @@ site_name: D&D Campaign Library
 theme:
   name: material
   palette:
-    scheme: slate  # This enables dark mode
+    scheme: slate  # ✅ Correct
     primary: deep purple
     accent: amber
 
