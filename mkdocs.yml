@@ -2,8 +2,9 @@ site_name: D&D Campaign Library
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: red
+    scheme: slate  # This enables dark mode
+    primary: deep purple
+    accent: amber
 
   features:
     - navigation.tabs
