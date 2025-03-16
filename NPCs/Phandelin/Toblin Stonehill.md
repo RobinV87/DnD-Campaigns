@@ -1,0 +1,9 @@
+- **Name:** Toblin Stonehill
+- **Race:** Human
+- **Occupation:** Taverneer
+- **Alignment:** Neutral Good
+- **Description:** Friendly Taveneer who likes to do business with adventurers, always in for a good conversation
+- **Notable Traits:** Knows a lot of rumors
+- **Location:** Stonehill Inn, Phandelin
+- **Quests:**
+-   [ ] 
