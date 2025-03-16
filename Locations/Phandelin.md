@@ -29,9 +29,9 @@ Phandalin consists of **wooden buildings, dirt roads, and small farms**, with on
 - The largest trading post in town, supplying general goods, rations, and mining equipment.
 - No weapons or armor are sold here.
 
-### 🍺 **3. The Sleeping Giant (Shut Down or Dangerous)**
+### 🍺 **3. The Sleeping Giant (Shut Down)**
 - A rundown, seedy taproom that was once a hangout for the **Redbrand Ruffians**.
-- Depending on the events of the adventure, it may be abandoned or repurposed.
+- Owned, but not operated by the party.
 
 ### ⛏️ **4. Phandalin Miners' Exchange**
 - **Guildmaster:** Halia Thornton
@@ -39,8 +39,8 @@ Phandalin consists of **wooden buildings, dirt roads, and small farms**, with on
 - Halia Thornton has her own ambitions and political influence over the town.
 
 ### 🏰 **5. Townmaster’s Hall**
-- **Current Townmaster:** Harbin Wester
-- The seat of local government, though Harbin is a cowardly and ineffective leader.
+- **Current Townmaster:** Halia Thornton
+- The seat of local government.
 - A small jail is attached, typically housing minor criminals.
 
 ### ⛪ **6. Shrine of Luck**
@@ -48,10 +48,10 @@ Phandalin consists of **wooden buildings, dirt roads, and small farms**, with on
 - A small shrine dedicated to **Tymora, goddess of luck**.
 - Sister Garaele is part of the **Harpers**, a secretive organization that opposes tyranny.
 
-### 🏚️ **7. Tresendar Manor (Ruined or Repurposed)**
+### 🏚️ **7. Tresendar Manor (Player Owned)**
 - Once a noble estate, now in ruins.
 - Former hideout of the **Redbrand Ruffians**, led by Glasstaff (Iarno Albrek).
-- Could be restored by town leaders or adventurers depending on the campaign.
+- Being restored by Hali Thronton
 
 ---
 
