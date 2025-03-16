@@ -1,6 +1,10 @@
 site_name: D&D Campaign Library
 theme:
   name: material
+  palette:
+    scheme: slate
+    primary: red
+
   features:
     - navigation.tabs
     - navigation.instant
