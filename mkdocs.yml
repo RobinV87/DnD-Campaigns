@@ -1,0 +1,8 @@
+site_name: D&D Campaign Library
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Game Logs: Game_Logs.md
+  - Locations: Locations.md
+  - NPCs: NPCs.md
