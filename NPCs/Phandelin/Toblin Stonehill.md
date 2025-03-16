@@ -66,5 +66,3 @@ A modest selection of food and drink, made with local ingredients.
 **Active Quests:**
 - [ ] None
 
-Would you like this in **JSON or YAML** for bot automation? 🚀
-
