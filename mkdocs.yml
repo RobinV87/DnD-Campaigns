@@ -1,9 +1,8 @@
+site_name: D&D Campaign Library
+theme:
+  name: material
 nav:
   - Home: index.md
-  - Game Logs:
-      - "Session 1": Game_logs/session_1.md
-  - Locations:
-      - "Tribor Trail": Locations/Tribor_Trail_History.md
-  - NPCs:
-      - "Asher Strongfoot": NPCs/Asher_Strongfoot.md
-  - Rules & House Rules: Rules/house_rules.md
+  - Game Logs: Game_logs/session_1.md
+  - Locations: Locations/Tribor_Trail_History.md
+
