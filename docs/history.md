@@ -2,4 +2,4 @@
 ---
 
 **Pahndelin**
-[Phandelin City History]()
+[Phandelin City History](/docs/History/)
