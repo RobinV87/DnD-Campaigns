@@ -2,4 +2,4 @@
 ---
 
 **Pahndelin**
-[Phandelin City History](docs/Locations/History/Phandelin_History.md)
+[Phandelin City History](Locations/History/Phandelin_History.md)
