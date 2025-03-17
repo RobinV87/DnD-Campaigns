@@ -9,7 +9,7 @@ Navigate through different sections to find what you need:
 - [📜 Game Logs](logs.md) – Track past sessions and key events.
 - [🗺️ Locations](Locations/Tribor_Trail_History.md) – Learn about cities, dungeons, and landmarks.
 - [🧙 NPCs](NPCs/Asher_Strongfoot.md) – Meet the important characters in your adventure. 
-- [⚔️ House Rules](Rules/house_rules.md) – Custom mechanics, homebrew spells, and special rules.
+- [⚔️ History](history.md) – Custom mechanics, homebrew spells, and special rules.
 
 ---
 ## 🗺️ Interactive Map (Example)
