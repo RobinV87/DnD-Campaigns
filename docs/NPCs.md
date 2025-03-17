@@ -3,7 +3,7 @@
 
 ## Phandelin
 
-* [Toblin Stonehill]()
+* [Toblin Stonehill](/NPCs/Phandelin/Toblin_Stonehill.md)
 * [Halia Thornton]()
 * [Elmina Barthen]()
 * [Gundren Rockseeker]()
