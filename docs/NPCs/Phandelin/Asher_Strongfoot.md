@@ -18,3 +18,8 @@
 | Road Ditch Dump          | 1 sp   | A wet grave in the mud |
 | Cremation     | 1 gp   | Big bonfire with an urn |
 | Proper Grave | 10 GP | A proper grave in the graveyard |
+
+---
+
+**Active Quests**
+- [ ]
