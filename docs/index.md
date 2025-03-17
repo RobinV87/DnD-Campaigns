@@ -13,7 +13,7 @@ Navigate through different sections to find what you need:
 
 ---
 ## 🗺️ Map
-![World Map](assets/swordcaost.jng)
+![World Map](assets/swordcaost.jpg)
 
 ---
 ## 📌 How to Use
