@@ -12,7 +12,7 @@ Navigate through different sections to find what you need:
 - [⚔️ History](history.md) – Custom mechanics, homebrew spells, and special rules.
 
 ---
-## 🗺️ Interactive Map (Example)
+## 🗺️ Map
 ![World Map](assets/swordcaost.jng)
 
 ---
