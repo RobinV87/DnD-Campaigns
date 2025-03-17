@@ -13,7 +13,7 @@ Navigate through different sections to find what you need:
 
 ---
 ## 🗺️ Interactive Map (Example)
-![World Map](assets/world_map.png)
+![World Map](assets/swordcaost.jng)
 
 ---
 ## 📌 How to Use
