@@ -25,8 +25,10 @@ Only in recent years have **brave settlers, farmers, and traders** attempted to 
 - **The Lords’ Alliance** seeks to restore order and trade routes in the area.
 - **Bandits, goblins, and orcs** still lurk, eager to prey on the town’s growing prosperity.
 - The legendary **Wave Echo Cave remains lost**, but rumors persist that it may be found again.
+- Hired help have helped Gundren and Nandro Rockseeker find and take back the **Wave Echo Cave**
+- The Spiders organisation of the Redbrand have been defeated, altough there is still talk that they might return.
 
 ---
 ## 📌 **Notes:**
-
+- The hired help in the last section is the Party of heroes (unnamed)
 ---
