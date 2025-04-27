@@ -10,7 +10,7 @@ Navigate through different sections to find what you need:
 - [🗺️ Locations](Locations.md) – Learn about cities, dungeons, and landmarks.
 - [🧙 NPCs](NPCs.md) – Meet the important characters in your adventure. 
 - [⚔️ History](history.md) – Learn about the History of the world.
-- [special rules](bloodbowl.md) - Read about the special rules.
+- [special rules](Bloodbowl.md) - Read about the special rules.
 
 ---
 ## 🗺️ Map
