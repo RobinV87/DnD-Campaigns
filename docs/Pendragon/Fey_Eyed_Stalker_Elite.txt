@@ -1,0 +1,20 @@
+😈 Fey-Eyed Stalker (Elite Version, CR 4)
+
+HP: 85
+AC: 17
+
+Legendary Action (1/round):
+- Reflected Step: Teleport to the opposite side of a creature within 30 ft if there’s a reflective surface nearby.
+
+Multiattack (2):
+- Shadow Claw: 2d6+4 slashing
+- Psychic Flay: 2d4 psychic + WIS save or lose your reaction
+
+Fey Gaze (Recharge 5–6):
+All creatures within 20 ft must pass DC 15 WIS or suffer one of the following:
+- See a mirror of themselves attacking them (lose one action)
+- Disadvantage on next CHA or WIS check
+- Fall prone in fear
+
+Mirror Clone (1/day):
+Creates a perfect illusion of a party member that mimics one of their attacks (player rolls against their own AC).

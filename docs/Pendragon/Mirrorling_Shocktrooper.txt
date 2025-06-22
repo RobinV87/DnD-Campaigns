@@ -1,0 +1,16 @@
+🧍 Mirrorling Shocktrooper (CR 2)
+
+HP: 38
+AC: 16
+
+Attack:
+- Shard Blade: 1d8+3 piercing + 1d6 psychic
+
+Trait – Mirror Step:
+As a bonus action, teleport up to 15 ft between mirrored surfaces.
+
+Twisted Reflection (1/short rest):
+Choose one target: the next time that target casts a spell or swings a melee weapon, a mirror copy attacks them (reflected blow, 1d6+spell mod psychic).
+
+Bonded Despair:
+If they die within 15 ft of the Shardweaver, the Shardweaver gains temporary HP = their CHA mod + caster level.
