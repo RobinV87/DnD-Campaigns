@@ -1,0 +1,18 @@
+🧝‍♂️ Shardweaver Acolyte (Elite Version, CR 3)
+
+HP: 65
+AC: 14
+
+Legendary Trait – Mirror Anchor:
+While within 10 ft of a mirror or reflection, the Shardweaver can’t be flanked and has advantage on all saves vs spells.
+
+Spells (DC 14 / +6):
+- At-Will: Faerie Fire, Mage Hand, Minor Illusion
+- 2/day: Dissonant Whispers, Mirror Image, Hold Person
+- 1/day: Phantasmal Killer (targeted nightmare using Dhuron’s past)
+
+Mirror Pulse (Recharge 5–6):
+Unleashes mirror shards in a 15 ft cone. 4d6 psychic damage, DC 14 DEX save for half + lose reactions if failed.
+
+Death Shard Storm:
+On death, explodes in a cloud of mirrored glass. Enemies within 10 ft take 2d8 piercing and must pass DC 13 WIS or be haunted (disadv. on WIS saves for 1 minute).
