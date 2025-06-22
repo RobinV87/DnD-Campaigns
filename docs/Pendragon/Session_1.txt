@@ -1,0 +1,27 @@
+Introduction:
+
+The town of Phandelver sleeps beneath a gray morning sky.
+
+Smoke rises gently from hearths, merchants stir in the square, and for once, the Sword Coast feels... calm.
+
+But calm is a lie.
+
+Dhuron Pendragon wakes in a cold sweat—his hands shaking, the echo of a child's scream fading from his ears.
+A dream? A memory? A warning?
+
+He doesn’t remember being a noble. He doesn’t remember the Keep. But now, the dreams have sharpened.
+The name Pendragon rings like a war drum—louder each day.
+
+And last night, the innkeeper brought rumors:
+
+    "Bandits, mercs, even cultists—something’s drawn them east of the hills. To some ruin up on the cliffs... somethin' cursed."
+
+The locals call it Wyrmwatch Ridge.
+The name etched in faded maps?
+Pendragon Keep.
+
+| NPC / Place                         | Hook                                                                                                                                  |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sister Garaele (Shrine of Luck)** | Shares a vision of black banners and chained spirits. Warns: *“What was buried must not awaken.”*                                     |
+| **Barthen’s Provisions**            | Received a relic shipment from the East—a box branded with the Pendragon crest. Inside: an old journal, page missing.                 |
+| **The Stonehill Inn**               | Drunk traveler speaks of *"shadows that walk in daylight"* near Wyrmwatch Ridge. Claims time works differently, shadow walkers roam   |
